@@ -41,7 +41,9 @@ a{
     font-size: 17px;
     font-weight: 100;
 }
-
+a:hover {
+    color: rgb(255, 166, 0);
+  }
 
 
 .main-img{
@@ -67,9 +69,4 @@ button{
 .left-button{
     height: 20px;
     width: 20px;
-}
-
-.super-crispy{
-    color: orange;
-    font-size: 50px;
 }
